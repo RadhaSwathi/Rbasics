@@ -1,0 +1,9 @@
+Dist_Taxi – distance to nearest taxi stand from the property
+Dist_Market – distance to nearest grocery market from the property
+Dist_Hospital – distance to nearest hospital from the property
+Carpet – carpet area of the property in square feet
+Builtup – built-up area of the property in square feet
+Parking – type of car parking available with the property
+City_Category – categorization of the city based on the size
+Rainfall – annual rainfall in the area where property is located
+House_Price – price at which the property was sold
